@@ -1,0 +1,5 @@
+{
+	"defaultTimeout": 3000,
+	"port": 8076,
+	"host": "localhost"
+}
